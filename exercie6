@@ -31,4 +31,3 @@ for tirage in tableau_jeu:
 
 print()
 
-a= 7.5
